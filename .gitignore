@@ -2,5 +2,5 @@ yolov4/yolov3.weights
 yolov4/yolov4.weights
 yolov4/yolov4-custom_best.weights
 yolov4/yolov4-custom_final.weights
-yolov4/yolov4-tiny-custom_final.weights
-deep_sort/mars-small128.pb
+# yolov4/yolov4-tiny-custom_final.weights
+# deep_sort/mars-small128.pb
